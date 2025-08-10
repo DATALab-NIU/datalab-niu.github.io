@@ -1,0 +1,95 @@
+.site-title {
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  img {
+    &.header-logo {
+      width: 100%;
+      height: auto;
+      max-width: 260px; // Adjust as needed
+    }
+  }
+}
+
+h3 {
+  &.members-level {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}
+
+.members-list {
+
+  .member-item {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    .member-image {
+      width: 64px;
+      height: 64px;
+      border-radius: 50%;
+      margin-right: 10px;
+      flex-shrink: 0;
+      background-color: $grey-color-light;
+      display: inline-block;
+
+      img {
+        width: 100%;
+        height: auto;
+        border-radius: 50%;
+        max-width: 64px;
+      }
+    }
+
+    .member-info {
+      flex-grow: 1;
+      a {
+        text-decoration: none;
+        color: $text-color;
+        font-weight: bold;
+
+        &:hover {
+          color: $brand-color;
+        }
+
+        &:not(.member-name) {
+          width: 32px;
+          height: 32px;
+          display: inline-block;
+        }
+      }
+
+      span {
+        &.bio {
+          display: block;
+          font-size: $small-font-size;
+          color: $grey-color-dark;
+          margin-top: 5px;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    border: none;
+
+    label {
+      .menu-icon {
+        //border: 1px solid #e8e8e8;
+        //border-radius: 5px;
+      }
+    }
+
+    .trigger {
+      box-shadow: 0 0 2px 0px rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
+    }
+  }
+
+}
