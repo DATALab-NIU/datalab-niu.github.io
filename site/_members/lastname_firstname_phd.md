@@ -1,10 +1,12 @@
 ---
+layout: member # Do not change this
 title: John Doe - Doctor on the way # This title will be used in the browser title bar and for SEO
 full_name: John Doe
 level: PhD
 position: PhD Candidate
 # Do not change this number. This is to order the Faculty, PhD, MS, and BS _members in the correct order.
-order: 2 
+order: 2
+hidden: true # Set to true if you want to hide this profile from the members page
 picture: /assets/images/members/john_doe.jpg
 bio: A short description of your profile should go here.
 email: example@niu.edu

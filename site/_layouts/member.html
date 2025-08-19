@@ -1,0 +1,64 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.full_name | escape }} - {{ page.position | escape }}</h1>
+    <div class="member-details">
+      <div class="member-image">
+        {% if page.picture %}
+        <img src="{{ page.picture | relative_url }}" alt="{{ page.full_name | escape }}"/>
+        {% else %}
+        <img src="{{ "/assets/images/datalab-icon.png" | relative_url }}" alt="{{ page.full_name | escape
+        }}" />
+        {% endif %}
+      </div>
+      <div class="member-info">
+        {% if page.bio %}
+        <span class="bio">{{ page.bio }}</span>
+        {% endif %}
+        {% if page.email %}
+        <a href="mailto:{{ page.email }}" class="member-email">
+          <i class="fa-regular fa-envelope"></i>
+        </a>
+        {% endif %}
+        {% if page.website %}
+        <a href="{{ page.website }}" target="_blank" class="member-website">
+          <i class="fa-solid fa-up-right-from-square"></i>
+        </a>
+        {% endif %}
+        {% if page.github %}
+        <a href="{{ page.github | relative_url }}" class="member-github">
+          <i class="fa-brands fa-github"></i>
+        </a>
+        {% endif %}
+        {% if page.linkedin %}
+        <a href="{{ page.linkedin }}" target="_blank" class="member-linkedin">
+          <i class="fa-brands fa-linkedin"></i>
+        </a>
+        {% endif %}
+        {% if page.twitter %}
+        <a href="{{ page.twitter }}" target="_blank" class="member-twitter">
+          <i class="fa-brands fa-square-x-twitter"></i>
+        </a>
+        {% endif %}
+        {% if page.orcid %}
+        <a href="{{ page.orcid }}" target="_blank" class="member-orcid">
+          <i class="fa-brands fa-orcid"></i>
+        </a>
+        {% endif %}
+        {% if page.scholar %}
+        <a href="{{ page.scholar }}" target="_blank" class="member-scholar">
+          <i class="fa-brands fa-google-scholar"></i>
+        </a>
+        {% endif %}
+      </div>
+    </div>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>

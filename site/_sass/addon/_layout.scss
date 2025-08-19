@@ -1,3 +1,24 @@
+h1, h2, h3 {
+  font-weight: 700;
+  color: $text-color;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+
 .site-title {
   padding-top: 10px;
   padding-bottom: 10px;
@@ -47,6 +68,7 @@ h3 {
 
     .member-info {
       flex-grow: 1;
+      flex-basis: 50%;
       a {
         text-decoration: none;
         color: $text-color;
@@ -73,6 +95,63 @@ h3 {
       }
     }
   }
+}
+
+.member-details {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 20px;
+
+  .member-image {
+    width: 128px;
+    height: 128px;
+    max-width: 128px;
+    margin-right: 20px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    background-color: $grey-color-light;
+    display: inline-block;
+
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 50%;
+      max-width: 128px;
+    }
+  }
+
+  .member-info {
+    flex-grow: 1;
+    flex-basis: 50%;
+    a {
+      text-decoration: none;
+      color: $text-color;
+      font-weight: bold;
+
+      &:hover {
+        color: $brand-color;
+      }
+
+      &:not(.member-name) {
+        width: 32px;
+        height: 32px;
+        display: inline-block;
+      }
+    }
+
+    span {
+      &.bio {
+        display: block;
+        font-size: $small-font-size;
+        color: $grey-color-dark;
+        margin-top: 5px;
+      }
+    }
+  }
+
 }
 
 @media screen and (max-width: 600px) {

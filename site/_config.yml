@@ -21,9 +21,10 @@
 title: DATALab - Northern Illinois University
 email: alhoori@niu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  DATALab is a research group at the Department of Computer Science at Northern Illinois University. 
+  Our research focuses on data science, machine learning, and artificial intelligence. 
+  We work on a variety of projects, including data mining, natural language processing, computer vision, 
+  and large language models.
 domain: datalab-niu.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://datalab-niu.github.io
