@@ -8,7 +8,7 @@ For local development, you'll need to satisfy Jekyll's prerequisites [listed her
 It is also possible to update content without local installation. Local jekyll setup is only needed if you want to preview changes before pushing them to GitHub. Please note that basic [Markdown](https://www.markdownguide.org/basic-syntax/) knowledge is required to edit the content.
 
 ## Local Development Setup
-1. **Clone the Repository**: Start by cloning the repository to your local machine.
+1. **Clone the Repository**: Start by cloning the `website-dev` branch from the GitHub repository to your local machine.
 2. **Install Jekyll and Bundler**: If you haven't already, install Jekyll and Bundler using the following command:
    ```
    gem install jekyll bundler
@@ -25,7 +25,7 @@ It is also possible to update content without local installation. Local jekyll s
 5. **Make Changes**: Edit the Markdown files in the `_members` directory to update member profiles or other content as needed.
 6. **Preview Changes**: As you make changes, Jekyll will automatically rebuild the site. Refresh your browser to see the updates.
 7. **Stop the Server**: When you're done, you can stop the server by pressing `CTRL + C` in the terminal.
-8. **Commit and Push Changes**: After verifying your changes, commit them to your local repository and push them to the remote repository on GitHub. Please create a new branch for your changes and open a pull request to the `main` branch.
+8. **Commit and Push Changes**: After verifying your changes, commit them to your local repository and push them to the remote repository on GitHub. Please create a **new branch** for your changes and open a pull request to the `website-dev` branch.
 9. **Merge Changes**: Once your pull request is reviewed and approved, it can be merged into the `main` branch. GitHub Pages will automatically rebuild and deploy the site. You may need to contact site administrators at [ashiqur.r@niu.edu](mailto:ashiqur.r@niu.edu) or [alhoori@niu.edu](mailto:alhoori@niu.edu) to trigger a rebuild if necessary.
 
 If you do not want to set up a local development environment, you can ignore steps 2-4 and steps 6-7. You can directly edit the markdown files in the GitHub web interface and create a pull request for your changes. <span style="color: red;">**_It is imperative that you don't make any changes directly to the `main` branch._**</span> Please create a new branch for your changes and open a pull request to the `main` branch. Once your pull request is reviewed and approved, it can be merged into the `main` branch. GitHub Pages will automatically rebuild and deploy the site.
