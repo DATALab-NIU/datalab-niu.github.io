@@ -8,7 +8,7 @@ For local development, you'll need to satisfy Jekyll's prerequisites [listed her
 It is also possible to update content without local installation. Local jekyll setup is only needed if you want to preview changes before pushing them to GitHub. Please note that basic [Markdown](https://www.markdownguide.org/basic-syntax/) knowledge is required to edit the content.
 
 ## Local Development Setup
-1. **Clone the Repository**: Start by cloning the `website-dev` branch from the GitHub repository to your local machine.
+1. **Clone the Repository**: Start by cloning the `website-publish` branch from the GitHub repository to your local machine.
 2. **Install Jekyll and Bundler**: If you haven't already, install Jekyll and Bundler using the following command:
    ```
    gem install jekyll bundler
