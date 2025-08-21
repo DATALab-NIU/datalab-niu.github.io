@@ -7,18 +7,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
+          <img src="{{ site.baseurl}}{{ site.favicon  | relative_url }}" alt="{{ site.title | escape }}" class="footer-logo" />
       </div>
 
       <div class="footer-col footer-col-2">
@@ -26,7 +15,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <p>{{- site.footer_description | escape -}}</p>
       </div>
     </div>
 

@@ -1,0 +1,6 @@
+<ul class="social-media-list">
+  {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}" target="_blank"><i class="fa-brands fa-square-github"></i> <span class="username">{{ site.github_username| escape }}</span></a></li>{%- endif -%}
+  {%- if site.twitter_username -%}<li><a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}" target="_blank"><i class="fa-brands fa-square-x-twitter"></i> <span class="username">{{ site.twitter_username| escape }}</span></a></li>{%- endif -%}
+  {%- if site.researchgate_url -%}<li><a href="{{ site.researchgate_url| escape }}"><i class="fa-brands fa-researchgate" target="_blank"></i> <span class="username">ResearchGate</span></a></li>{%- endif -%}
+  {%- if site.email -%}<li><a href="mailto:{{ site.email| escape }}"><i class="fa-solid fa-envelope"></i> <span class="username">{{ site.email| escape }}</span></a></li>{%- endif -%}
+</ul>

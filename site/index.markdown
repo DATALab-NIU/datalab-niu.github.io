@@ -5,8 +5,18 @@
 layout: home
 ---
 
-DataLab is a research group at the [Department of Computer Science](https://www.cs.niu.edu)
-at [Northern Illinois University](https://www.niu.edu). Our research focuses on
-data science, machine learning, and artificial intelligence. We work on a variety of
-projects, including data mining, natural language processing, computer vision, and large language models.
-We also collaborate with other researchers and organizations to apply our research to real-world problems.
+Welcome to the Data Analytics Theory and Applications Laboratory (DATALab) at
+[Northern Illinois University](https://www.niu.edu). We are a research lab in the
+[Department of Computer Science](https://www.cs.niu.edu), dedicated to exploring the exciting fields of data
+analytics, machine learning, and artificial intelligence.
+
+Our research focuses on addressing real-world challenges and making a societal impact. We delve into areas like:
+
+- **AI for Science and the Science of Science:** We develop models to improve research reproducibility, uncover patterns in scholarly data, and predict the impact of scientific work.
+- **AI Safety and AI in Engineering:** We are committed to building fair, reliable, and robust AI systems for real-world applications, including collaborations with Argonne National Laboratory and Spirit AeroSystems on AI-powered inspection systems for manufacturing.
+- **Generative AI and Large Language Models:** We are at the forefront of research in generative AI and large language models, exploring their capabilities and applications.
+- **Social Media and Text Mining:** We analyze social media data and text to understand public engagement, sentiment, and the spread of information.
+
+Our work is supported by federal agencies and industry partners, and our findings are published in leading academic
+venues. We are proud to have contributions in advancing responsible AI applications that benefit science, industry,
+and society.
