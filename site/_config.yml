@@ -25,11 +25,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   Our research focuses on data science, machine learning, and artificial intelligence. 
   We work on a variety of projects, including data mining, natural language processing, computer vision, 
   and large language models.
+footer_description: >- # this means to ignore newlines until "baseurl:"
+  DATALab at Northern Illinois University is always looking for passionate researchers and prospective 
+  PhD students to join our team. If you are interested in collaborating on cutting-edge research in data science, 
+  machine learning, or artificial intelligence, we encourage you to get in touch. Send us an email to 
+  introduce yourself and your research interests.
 domain: datalab-niu.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://datalab-niu.github.io
 twitter_username: alhoori
 github_username:  DATALab-NIU
+researchgate_url: https://www.researchgate.net/lab/DATA-Lab-Hamed-Alhoori
 logo: /assets/images/datalab-logo-horizontal-alt.png
 niu_logo: /assets/images/niu-logo.png
 favicon: /assets/images/datalab-icon.png
