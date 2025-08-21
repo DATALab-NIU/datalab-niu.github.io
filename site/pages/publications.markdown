@@ -20,6 +20,7 @@ We have impactful publications in various areas of computer science, including d
 
 ## 2022
 - **Ashiqur Rahman** (2022). **Modeling and Visualization of Long-Term Public Opinion on COVID-19 Vaccine**. MS. Northern Illinois University, DeKalb, IL. https://huskiecommons.lib.niu.edu/allgraduate-thesesdissertations/7577
+
 ## 2021
 
 ## 2020
