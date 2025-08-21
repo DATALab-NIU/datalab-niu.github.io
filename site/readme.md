@@ -1,6 +1,6 @@
 # DATALab Website
 <img src="assets/images/datalab-logo-horizontal-alt.png" alt="DATALab" width="300"/>
-================
+
 Welcome to the DATALab website! This site is built using [Jekyll](https://jekyllrb.com/), a static site generator, and is hosted on [GitHub Pages](https://pages.github.com/). Below you'll find instructions on how to set up your local development environment, contribute to the site, and deploy changes.
 
 ## Prerequisites
@@ -28,7 +28,7 @@ It is also possible to update content without local installation. Local jekyll s
 8. **Commit and Push Changes**: After verifying your changes, commit them to your local repository and push them to the remote repository on GitHub. Please create a **new branch** for your changes and open a pull request to the `website-dev` branch.
 9. **Merge Changes**: Once your pull request is reviewed and approved, it can be merged into the `main` branch. GitHub Pages will automatically rebuild and deploy the site. You may need to contact site administrators at [ashiqur.r@niu.edu](mailto:ashiqur.r@niu.edu) or [alhoori@niu.edu](mailto:alhoori@niu.edu) to trigger a rebuild if necessary.
 
-If you do not want to set up a local development environment, you can ignore steps 2-4 and steps 6-7. You can directly edit the markdown files in the GitHub web interface and create a pull request for your changes. <span style="color: red;">**_It is imperative that you don't make any changes directly to the `main` branch._**</span> Please create a new branch for your changes and open a pull request to the `main` branch. Once your pull request is reviewed and approved, it can be merged into the `main` branch. GitHub Pages will automatically rebuild and deploy the site.
+If you do not want to set up a local development environment, you can ignore steps 2-4 and steps 6-7. You can directly edit the markdown files in the GitHub web interface and create a pull request for your changes. <span style="color: red;">**_It is imperative that you don't make any changes directly to the `website-publish` branch._**</span> Please create a new branch for your changes and open a pull request to the `website-publish` branch. Once your pull request is reviewed and approved, it can be merged into the `website-publish` branch. GitHub Pages will automatically rebuild and deploy the site.
 
 ## Contributing
 There are several ways you can contribute to the DATALab website. Most importantly, you should keep your own profile and publications up to date.
