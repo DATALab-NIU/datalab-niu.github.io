@@ -7,7 +7,7 @@ permalink: /publications/
 We have impactful publications in various areas of computer science, including data science, machine learning, and artificial intelligence. Below is a list of selected publications from our team members.
 
 ## 2025
-- **Ashiqur Rahman**, Venkata Devesh Reddy Seethi, Austin Yunker, Zachary Kral, Rajkumar Kettimuthu, and Hamed Alhoori (2025). **Effective defect detection using instance segmentation for NDI**. arXiv [cs.CV]. https://doi.org/10.48550/arXiv.2501.1414
+- Ashiqur Rahman, Venkata Devesh Reddy Seethi, Austin Yunker, Zachary Kral, Rajkumar Kettimuthu, and Hamed Alhoori (2025). **Effective defect detection using instance segmentation for NDI**. arXiv [cs.CV]. https://doi.org/10.48550/arXiv.2501.1414
 
 ## 2024
 - Venkata Devesh Reddy Seethi, Ashiqur Rahman, Austin Yunker, Rami Lake, Zachary Kral, Rajkumar Kettimuthu, and Hamed Alhoori (2024). **Mixture-of-experts for multi-domain defect identification in non-destructive inspection**. In 2024 International Conference on Machine Learning and Applications (ICMLA), December 18, 2024. IEEE, 1283–1288. https://doi.org/10.1109/icmla61862.2024.00200
