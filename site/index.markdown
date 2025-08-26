@@ -16,6 +16,7 @@ Our research focuses on addressing real-world challenges and making a societal i
 - **AI Safety and AI in Engineering:** We are committed to building fair, reliable, and robust AI systems for real-world applications, including collaborations with Argonne National Laboratory and Spirit AeroSystems on AI-powered inspection systems for manufacturing.
 - **Generative AI and Large Language Models:** We are at the forefront of research in generative AI and large language models, exploring their capabilities and applications.
 - **Social Media and Text Mining:** We analyze social media data and text to understand public engagement, sentiment, and the spread of information.
+- **Generative AI and Large Language Models (LLMs):** We are actively engaged in research at the forefront of generative AI. Our work explores the capabilities, limitations, and applications of large language models and other generative techniques. We investigate everything from foundational model behavior to the practical application of these models in solving complex text analysis and content creation tasks.
 
 Our work is supported by federal agencies and industry partners, and our findings are published in leading academic
 venues. We are proud to have contributions in advancing responsible AI applications that benefit science, industry,
