@@ -1,8 +1,8 @@
 ---
 layout: member # Do not change this
 title: John Doe - Master of Dark Arts # This title will be used in the browser title bar and for SEO
-full_name: John Doe
-level: MS
+full_name: Ibrahim Al Azher
+level: PhD
 position: Social Activity Coordinator
 # Do not change this number. This is to order the Faculty, PhD, MS, and BS _members in the correct order.
 order: 3
