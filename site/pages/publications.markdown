@@ -11,6 +11,10 @@ We have impactful publications in various areas of computer science, including d
 - I. A. Azher, M. J. Mokarrama, Z. Guo, S. R. Choudhury, H. Alhoori.
 **BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text.**
  [📄 PDF](https://arxiv.org/pdf/2505.18207) 
+- I. A. Azher, M. J. Mokarrama, Z. Guo, S. R. Choudhury, H. Alhoori.
+**FutureGen: A RAG-based Approach to Generate the Future Work of Scientific Articles.**
+International Workshop on AI for Scientific Communication (Ai4SC), IEEE eScience 2025, Chicago.
+[📄 PDF](https://arxiv.org/pdf/2503.16561)
  - T. Azad, I. A. Azher, S. R. Choudhury, H. Alhoori.
 **Predicting Scholarly Impact with Retrieval-Augmented LLMs.**
 Association of Computational Linguistics (ACL), Scholarly Document Processing (SDProc), 2025, Vienna, Austria.
