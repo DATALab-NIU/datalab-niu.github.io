@@ -11,7 +11,7 @@ layout: default
 
     <h2>Members</h2>
 
-    {% assign grouped_members = site.members | group_by: 'level' %}
+    {% assign grouped_members = site.members | sort: 'order' | group_by: 'level' %}
 
     {% for level in grouped_members %}
     <h3 class="member-level">{{ level.name }}</h3>
@@ -24,10 +24,9 @@ layout: default
         <div class="member-item">
             <div class="member-image">
                 {% if member.picture %}
-                <img src="{{ member.picture | relative_url }}" alt="{{ member.full_name | escape }}"/>
+                <div class="member-picture" style="background-image: url('{{ member.picture | relative_url }}');"></div>
                 {% else %}
-                <img src="{{ "/assets/images/datalab-icon.png" | relative_url }}" alt="{{ member.full_name | escape
-                }}" />
+                <div class="member-picture" style="background-image: url('{{ "/assets/images/datalab-icon.png" | relative_url }}'></div>
                 {% endif %}
             </div>
             <div class="member-info">

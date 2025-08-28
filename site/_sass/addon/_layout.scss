@@ -57,12 +57,19 @@ h3 {
       flex-shrink: 0;
       background-color: $grey-color-light;
       display: inline-block;
+      overflow: hidden;
 
-      img {
+      .member-picture {
         width: 100%;
-        height: auto;
+        height: 100%;
+        display: block;
+        object-fit: cover;
+        object-position: center center;
+        background-size: cover;
+        background-position: center center;
         border-radius: 50%;
         max-width: 64px;
+        max-height: 64px;
       }
     }
 
@@ -115,11 +122,17 @@ h3 {
     background-color: $grey-color-light;
     display: inline-block;
 
-    img {
+    .member-picture {
       width: 100%;
-      height: auto;
+      height: 100%;
+      display: block;
+      object-fit: cover;
+      object-position: center center;
+      background-size: cover;
+      background-position: center center;
       border-radius: 50%;
       max-width: 128px;
+      max-height: 128px;
     }
   }
 
