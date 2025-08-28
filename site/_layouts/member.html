@@ -8,10 +8,9 @@ layout: default
     <div class="member-details">
       <div class="member-image">
         {% if page.picture %}
-        <img src="{{ page.picture | relative_url }}" alt="{{ page.full_name | escape }}"/>
+          <div class="member-picture" style="background-image: url('{{ page.picture | relative_url }}');"></div>
         {% else %}
-        <img src="{{ "/assets/images/datalab-icon.png" | relative_url }}" alt="{{ page.full_name | escape
-        }}" />
+          <div class="member-picture" style="background-image: url('{{ "/assets/images/datalab-icon.png" | relative_url }}'></div>
         {% endif %}
       </div>
       <div class="member-info">
