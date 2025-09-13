@@ -8,9 +8,9 @@ position: PhD Student
 order: 2
 hidden: false # Set to true if you want to hide this profile from the members page
 picture: /assets/images/members/john_doe.jpg
-bio: I am pursuing a PhD in Computer Science at Northern Illinois University (Aug 2023–present), where I work as a Research Assistant at DATALab. My current research explores how Large Language Models (LLMs) can transform how we understand and evaluate scientific knowledge. My work applies retrieval-augmented LLMs to predict the scholarly impact of research papers, which expedites the evaluation process and helps to learn impact immediately. I also seek to explore how citations are reframed and reinterpreted across scientific literature, and to uncover how the same work is interpreted differently across disciplines and contexts in scholarly writing. My goal is to create a more nuanced and meaningful way of understanding scholarly impact in the science of science field.
+bio: I am pursuing a PhD in Computer Science at Northern Illinois University (Aug 2023–present).
 email: tamjidazad365@gmail.com
-github: https://github.com/tazad-csci
+github: https://github.com/t-azad
 linkedin: https://www.linkedin.com/in/tamjidazad401
 twitter: https://x.com/ta_datalab
 orcid: https://orcid.org/0009-0000-2722-7350
@@ -18,7 +18,7 @@ scholar: https://scholar.google.com/citations?user=7kHhVPgAAAAJ&hl=en&oi=sra
 ---
 
 ## Biography
-I am pursuing a PhD in Computer Science at Northern Illinois University (Aug 2023–present), where I work as a Research Assistant at DATALab. My current research explores how Large Language Models (LLMs) can transform how we understand and evaluate scientific knowledge. My work applies retrieval-augmented LLMs to predict the scholarly impact of research papers, which expedites the evaluation process and helps to learn impact immediately. I also seek to explore how citations are reframed and reinterpreted across scientific literature, and to uncover how the same work is interpreted differently across disciplines and contexts in scholarly writing. My goal is to create a more nuanced and meaningful way of understanding scholarly impact in the science of science field.
+I am pursuing a PhD in Computer Science at Northern Illinois University (Aug 2023–present), where I work as a Research Assistant at DATALab. My current research explores using Large Language Models (LLMs) to better learn and evaluate scholarly research. My work applies retrieval-augmented LLMs to predict the scholarly impact of research papers, which expedites the evaluation process and helps to learn a paper's impact more quickly. I'm also seeking to analyze how a paper's citations are being reframed across scientific literature and to understand how the same paper can be interpreted in different contexts.
 
 
 ## Publications
