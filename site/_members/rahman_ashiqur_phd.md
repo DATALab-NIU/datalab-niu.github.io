@@ -8,7 +8,7 @@ position: Research Assistant
 order: 2
 hidden: false # Set to true if you want to hide this profile from the members page
 picture: /assets/images/members/rahman_ashiqur.jpg
-bio: I am pursuing my Ph.D. in Computer Science at Northern Illinois University.
+bio: Pursuing my Ph.D. with specialization in Computer Vision.
 email: ashiqur.r@niu.edu
 website: https://ashiqur.com
 github: https://github.com/ashiqur-rony
@@ -18,11 +18,10 @@ scholar: https://scholar.google.com/citations?user=OtK3bX0AAAAJ&hl=en
 ---
 
 ## Biography
-I have experience working in the IT industry for over a decade. I completed my bachelor’s degree in Computer Science from the University of Dhaka and my master’s in Computer Science from Northern Illinois University. I am pursuing my Ph.D. in Computer Science at Northern Illinois University.
-
-I am proficient in working with machine learning models with advanced knowledge in natural language processing (NLP), artificial intelligence (AI), and information visualization (InfoViz). With my expertise in Python libraries (e.g., Spacy, TensorFlow, PyTorch, etc.) and JavaScript tools (e.g., D3.js), I am able to extend my work in different directions. I have developed several machine-learning models for clustering, topic modeling, and classification of social media data. I am currently working to expand non-destructive inspection (NDI) research boundaries by building image segmentation models to identify defects from ultrasonic and CT scans.
+My PhD research specialization is Computer Vision, where I have several peer-reviewed publications. I developed a novel model-free algorithm for arbitrary shape detection and pseudo-labeling. I have also proposed image segmentation models for defect identification in ultrasonic non-destructive inspection (NDI). My published research also spans Natural Language Processing (NLP), Machine Learning (ML), and Information Visualization (InfoViz). Currently, I am working on developing a multimodal LLM to identify regions of interest in microscopic scans.
 
 ## Publications
+- **Ashiqur Rahman**, and Hamed Alhoori (2025). **Proposing a Framework for Machine Learning Adoption on Legacy Systems**. arXiv [cs.LG]. https://doi.org/10.48550/arXiv.2509.24224
 - **Ashiqur Rahman**, Venkata Devesh Reddy Seethi, Austin Yunker, Zachary Kral, Rajkumar Kettimuthu, and Hamed Alhoori (2025). **Effective defect detection using instance segmentation for NDI**. arXiv [cs.CV]. https://doi.org/10.48550/arXiv.2501.1414
 - Venkata Devesh Reddy Seethi, **Ashiqur Rahman**, Austin Yunker, Rami Lake, Zachary Kral, Rajkumar Kettimuthu, and Hamed Alhoori (2024). **Mixture-of-experts for multi-domain defect identification in non-destructive inspection**. In 2024 International Conference on Machine Learning and Applications (ICMLA), December 18, 2024. IEEE, 1283–1288. https://doi.org/10.1109/icmla61862.2024.00200
 - **Ashiqur Rahman**, Ehsan Mohammadi, and Hamed Alhoori (2024). **Public interest in science or bots? Selective amplification of scientific articles on Twitter**. Aslib J. Inf. Manag. ahead-of-print, ahead-of-print (September 2024). https://doi.org/10.1108/AJIM-01-2024-0050
