@@ -1,5 +1,5 @@
 # DATALab Website
-<img src="assets/images/datalab-logo-horizontal-alt.png" alt="DATALab" width="300"/>
+<img src="assets/images/datalab-logo-horizontal.png" alt="DATALab" width="300"/>
 
 Welcome to the DATALab website! This site is built using [Jekyll](https://jekyllrb.com/), a static site generator, and is hosted on [GitHub Pages](https://pages.github.com/). Below you'll find instructions on how to set up your local development environment, contribute to the site, and deploy changes.
 
