@@ -7,7 +7,7 @@ permalink: /publications/
 We have impactful publications in various areas of computer science, including data science, machine learning, and artificial intelligence. Below is a list of selected publications from our team members.
 
 ## 2025
-- Ashiqur Rahman, and Hamed Alhoori (2025). **Proposing a Framework for Machine Learning Adoption on Legacy Systems**. arXiv [cs.LG]. https://doi.org/10.48550/arXiv.2509.24224
+- Ashiqur Rahman, and Hamed Alhoori (2025). **Proposing a Framework for Machine Learning Adoption on Legacy Systems**. arXiv [cs.LG]. https://doi.org/10.1109/ICDMW69685.2025.00194
 - Ashiqur Rahman, Venkata Devesh Reddy Seethi, Austin Yunker, Zachary Kral, Rajkumar Kettimuthu, and Hamed Alhoori (2025). **Effective defect detection using instance segmentation for NDI**. arXiv [cs.CV]. https://doi.org/10.48550/arXiv.2501.1414
 - I. A. Azher, M. J. Mokarrama, Z. Guo, S. R. Choudhury, H. Alhoori.
 **BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text.**
