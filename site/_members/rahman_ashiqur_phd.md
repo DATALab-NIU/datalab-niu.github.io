@@ -1,6 +1,6 @@
 ---
 layout: member # Do not change this
-title: Ashiqur Rahman - PhD Student # This title will be used in the browser title bar and for SEO
+title: Ashiqur Rahman - PhD Candidate # This title will be used in the browser title bar and for SEO
 full_name: Ashiqur Rahman
 level: PhD
 position: Research Assistant
@@ -8,7 +8,7 @@ position: Research Assistant
 order: 2
 hidden: false # Set to true if you want to hide this profile from the members page
 picture: /assets/images/members/rahman_ashiqur.jpg
-bio: Pursuing my Ph.D. with specialization in Computer Vision.
+bio: Ph.D. candidate with specialization in Computer Vision.
 email: ashiqur.r@niu.edu
 website: https://ashiqur.com
 github: https://github.com/ashiqur-rony
@@ -21,7 +21,7 @@ scholar: https://scholar.google.com/citations?user=OtK3bX0AAAAJ&hl=en
 My PhD research specialization is Computer Vision, where I have several peer-reviewed publications. I developed a novel model-free algorithm for arbitrary shape detection and pseudo-labeling. I have also proposed image segmentation models for defect identification in ultrasonic non-destructive inspection (NDI). My published research also spans Natural Language Processing (NLP), Machine Learning (ML), and Information Visualization (InfoViz). Currently, I am working on developing a multimodal LLM to identify regions of interest in microscopic scans.
 
 ## Publications
-- **Ashiqur Rahman**, and Hamed Alhoori (2025). **Proposing a Framework for Machine Learning Adoption on Legacy Systems**. arXiv [cs.LG]. https://doi.org/10.48550/arXiv.2509.24224
+- **Ashiqur Rahman**, and Hamed Alhoori (2025). **Proposing a Framework for Machine Learning Adoption on Legacy Systems**. arXiv [cs.LG]. https://doi.org/10.1109/ICDMW69685.2025.00194
 - **Ashiqur Rahman**, Venkata Devesh Reddy Seethi, Austin Yunker, Zachary Kral, Rajkumar Kettimuthu, and Hamed Alhoori (2025). **Effective defect detection using instance segmentation for NDI**. arXiv [cs.CV]. https://doi.org/10.48550/arXiv.2501.1414
 - Venkata Devesh Reddy Seethi, **Ashiqur Rahman**, Austin Yunker, Rami Lake, Zachary Kral, Rajkumar Kettimuthu, and Hamed Alhoori (2024). **Mixture-of-experts for multi-domain defect identification in non-destructive inspection**. In 2024 International Conference on Machine Learning and Applications (ICMLA), December 18, 2024. IEEE, 1283–1288. https://doi.org/10.1109/icmla61862.2024.00200
 - **Ashiqur Rahman**, Ehsan Mohammadi, and Hamed Alhoori (2024). **Public interest in science or bots? Selective amplification of scientific articles on Twitter**. Aslib J. Inf. Manag. ahead-of-print, ahead-of-print (September 2024). https://doi.org/10.1108/AJIM-01-2024-0050
